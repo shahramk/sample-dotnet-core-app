@@ -1,0 +1,6 @@
+---
+applications:
+- name: sample-dotnet-app
+  memory: 256M
+  buildpack: dotnet_core_buildpack
+
